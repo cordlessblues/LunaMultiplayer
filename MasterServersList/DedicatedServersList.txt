@@ -22,3 +22,5 @@ kerbal.tayaut.net:8800
 kerbal.tayaut.net:8801
 #Lotka
 kerbal.lotka.tk:8800
+cordless
+97.87.135.3:8800
